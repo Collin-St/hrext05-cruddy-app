@@ -2,7 +2,7 @@
 
 #### Basic Improvments (requirements)
 
-- [ ] create indivdiual items
+- [ ] create individual items
 - [ ] delete individual items
 - [ ] edit individual items
 
@@ -33,14 +33,13 @@
 
 #### My Plan
 <!-- - My app will be a sentence generator. It will first create a word list based on up to 10 words input by the user. Then the word list will be randomized, and returned as output. -->
-- My app will be a run-of-the-mill notepad app. It will look modern, and include drag-and-drop functionality to either reorder or delete notes. Work, Social, and Personal categories will be provided.
+- My app will be a run-of-the-mill to-do app. It will include drag-and-drop functionality to either reorder or delete tasks.
 
 #### My Spin
 - [ ] use a drag-and-drop utility to reorder or delete items
   - Here, I will create a drag event, and utilize the DataTransferItem method.
-<!-- - [ ] the app will take in a number of words, and return them randomized into a non-grammatical sentence (for now). -->
 - [ ] the app will allow the user to sort their notes by either drag event, or by prefixing their note with [W] for work, [S] for social, or [P] for personal.
-- [ ] use Bootstrap for UI (buttons, created items, arrangement on page, etc.)
+- [ ] use Bootstrap for UI (buttons, created items, arrangement on page, modals, etc.)
 
 ##### My Schedule
 
